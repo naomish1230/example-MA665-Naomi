@@ -7,5 +7,5 @@ Created on Tue Sep 10 12:28:44 2019
 """
 
 def simple_code_Naomi(x):
-    y = (x*x)/10 + 2x + 1
+    y = (x*x)/10 + 420x + 1
     return y
